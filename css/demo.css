@@ -1,0 +1,149 @@
+	/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:57:57
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-04-13 20:16:52
+*/
+/* body{ 
+	background: red;
+}*/
+a{
+	text-decoration: none;
+}
+body{
+	background: pink;
+}
+.box{
+	width: 375px;
+	height: 667px;
+	background:red ;
+	margin: 0 auto;
+	border-radius: 20px;
+	/* box-shadow: 0 0 15px 2px #000000; */
+	position: relative;
+}
+.top{
+	width: 375px;
+	height: 64px;
+	background:#fff ;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.center{
+	width: 363px;/* 375-12*/
+	height: 539px;
+	background:#0d045f;
+	margin: 0 auto;
+	border: 6px solid #fff;
+	/* border: 2px solid #000000; */
+}
+.bottom{
+	width: 375px;
+	height: 64px;
+	background: #fff;
+	/* background:-webkit-linear-gradient(top,#e1eaf3,#fff) ; */
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	margin: 0 auto;
+}
+.top-box{
+    width:161px;
+	height: 15px;
+	background:#fff ;
+	margin: 0 auto;
+	margin-top: 19px;
+}
+.first{ 
+	width:10px;
+	height: 9px;
+	background: #000;
+	border-radius: 50%;
+	float: left;
+	margin-top: 3px;
+
+}
+.second{
+	width: 67px;
+	height: 9px;
+	background: #000;
+	float: left;
+	border-radius: 5px;
+	margin-left: 27px;
+	margin-top: 3px;
+}
+.third{
+	width: 15px;
+	height: 15px;
+	background: #000;
+	border-radius: 50%;
+	float: right;
+}
+.bottom-box{
+	width: 80px;
+	height: 40px;
+	background: #afa19e;
+	border-radius: 20px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.forth{
+	width: 70px;
+	height: 30px;
+	background: #fff ;
+	margin: 0 auto;
+	margin-top: 5px;
+	border-radius: 20px;
+}
+.aside{
+	width: 8px;
+	height: 131px;
+	/* background: #fff; */
+	top: 121px;
+	right: -9px;
+	position: absolute;
+	/*border-radius: 20px; */
+
+}
+.shang{
+	width: 100%;
+	height: 80px;
+	background: #fff;
+	margin-bottom: 21px;
+	border-radius: 20px;
+}
+.xia{
+	width: 100%;
+	height: 30px;
+	background: #fff;
+	border-radius: 20px;
+}
+.jia{
+	width: 100%;
+	height: 40px;
+	background: #fff;
+	font-size: 8px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 20px;
+}
+.jian{
+	width: 100%;
+	height: 40px;
+	background: #fff;
+	text-align: center;
+	line-height: 40px; 
+	border-radius: 20px;
+}
+/* .box1{ 
+	width: 375px;
+	height: 667px;
+	background: #000;
+}*/
+/*31/84
+x/375
+
+16/177
+x/667
+*/
